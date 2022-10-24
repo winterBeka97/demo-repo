@@ -1,6 +1,6 @@
 # Header
 
-Creating demo repository using tutorial.
+Creating demo repository using Git tutorial.
 
 ## Subheader
 
